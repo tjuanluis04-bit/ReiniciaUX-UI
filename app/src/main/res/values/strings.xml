@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Reinicio UI</string>
+    <string name="widget_description">Reinicia la interfaz del sistema con un toque</string>
+</resources>
